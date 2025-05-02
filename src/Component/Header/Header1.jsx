@@ -5,7 +5,7 @@ import Bottom1 from "../Footer/Bottom1";
 const Header1 = () => {
   return (
     <div>
-      <div className="h-8 border text-center">
+      <div className="h-8 border text-center sticky top-0 bg-white ">
         <span className="font-semibold">Template Id </span> : 156607{" "}
         <span className="font-semibold">Theme Id</span> : 156607
       </div>
